@@ -17,3 +17,7 @@
 <br/>
 [Sveii](https://github.com/91580) - developer and graphic designer
 <br/>
+
+
+## Contributors 
+[Rusty](https://github.com/0rusty) - gave us some suggestions and fixed many issues in early beta, as well as V1
